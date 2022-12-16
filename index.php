@@ -6,6 +6,7 @@
 	<title>test</title>
 </head>
 <body>
-test
+<a href="https://onurasln55.github.io/">IP Sorgulama</a>
+
 </body>
 </html>
